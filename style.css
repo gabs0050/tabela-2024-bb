@@ -1,0 +1,36 @@
+table{
+    width: 85%;
+    margin: auto;
+    display: block
+  }
+  th{
+    font-size: 30px;
+  }
+  td{
+    text-align: center;
+    font-size: 20px
+  }
+  #foto2{
+    margin: auto;
+    display: block;
+  }
+  #foto3{
+    width: 50%;
+  }
+  #foto4{
+    width: 50%
+  }
+  #foto5{
+    width: 50%
+  }
+  h1{
+    text-align: center;
+    color: #4f7cac;
+    font-size: 210%;
+  }
+  body {
+    background-color: #ccfbfe;
+  }
+  h2 {
+    text-align: center;
+  }     
